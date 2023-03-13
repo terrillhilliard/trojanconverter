@@ -3,7 +3,7 @@
 README
 
 
-This is a Python script that downloads files from URLs and convert tehm into trojan executable. It requires the requests, subprocess, os, and tempfile modules to be installed.
+This is a Python script that downloads files from URLs and convert them into trojan executable. It requires the requests, subprocess, os, and tempfile modules to be installed.
 
 How to use
 
